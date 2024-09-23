@@ -5,5 +5,5 @@ class componenteTeamRed extends HTMLElement {
     }
 }
 
-customElements.define('9-12-18', componenteTeamRed);
+customElements.define('teamGonzalo', componenteTeamRed);
     
