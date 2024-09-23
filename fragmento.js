@@ -1,9 +1,10 @@
-class componenteTeamRed extends HTMLElement {   
-    constructor() {
+class MiComponente123 extends HTMLElement{
+    constructor(){
         super();
-        this.innerHTML= `<p>Sharknado</p>`;
+        this.innerHTML = `
+        <p>Sharknado💩</p>
+        `;
     }
 }
 
-customElements.define('teamGonzalo', componenteTeamRed);
-    
+customElements.define("teamGonzalo", MiComponente123);
