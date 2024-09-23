@@ -1,4 +1,4 @@
-class miComponente123 extends HTMLElement {
+class componenteTeamRed extends HTMLElement {
     constructor() {
         super();
         this.attachShadow({ mode: 'open' });
@@ -27,4 +27,4 @@ class miComponente123 extends HTMLElement {
     }
 }
 
-customElements.define('mi-componente-123', miComponente123);
+customElements.define('9-12-18', componenteTeamRed);
